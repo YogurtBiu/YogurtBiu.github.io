@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yogurtbiu.github.io/"/>
   <updated>2019-05-29T01:32:51.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yogurtbiu.github.io/</id>
   
   <author>
     <name>YogurtBiu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/29/hello-world/"/>
-    <id>http://yoursite.com/2019/05/29/hello-world/</id>
+    <link href="https://yogurtbiu.github.io/2019/05/29/hello-world/"/>
+    <id>https://yogurtbiu.github.io/2019/05/29/hello-world/</id>
     <published>2019-05-29T01:32:51.000Z</published>
     <updated>2019-05-29T01:32:51.000Z</updated>
     
