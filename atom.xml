@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yogurtbiu.github.io/"/>
-  <updated>2019-05-29T12:35:42.000Z</updated>
+  <updated>2019-05-29T01:32:51.000Z</updated>
   <id>https://yogurtbiu.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>哎哟不错哟</title>
-    <link href="https://yogurtbiu.github.io/2019/05/29/%E5%93%8E%E5%93%9F%E4%B8%8D%E9%94%99%E5%93%9F/"/>
-    <id>https://yogurtbiu.github.io/2019/05/29/哎哟不错哟/</id>
-    <published>2019-05-29T12:35:20.000Z</published>
-    <updated>2019-05-29T12:35:42.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Command line instructions</p><p>Git global setup<br>git config –global user.name “YogurtBiu”<br>git config –global user.email “<a href="mailto:1129367355@qq.com" target="_blank" rel="noopener">1129367355@qq.com</a>“</p><p>Create a new repository<br>git clone <a href="mailto:git@gitlab.com" target="_blank" rel="noopener">git@gitlab.com</a>:YogurtBiu/Anniversary.git<br>cd Anniversary<br>touch README.md<br>git add README.md<br>git commit -m “add README”<br>git push -u origin master</p><p>Existing folder<br>cd existing_folder<br>git init<br>git remote add origin <a href="mailto:git@gitlab.com" target="_blank" rel="noopener">git@gitlab.com</a>:YogurtBiu/Anniversary.git<br>git add .<br>git commit -m “Initial commit”<br>git push -u origin master</p><p>Existing Git repository<br>cd existing_repo<br>git remote rename origin old-origin<br>git remote add origin <a href="mailto:git@gitlab.com" target="_blank" rel="noopener">git@gitlab.com</a>:YogurtBiu/Anniversary.git<br>git push -u origin –all<br>git push -u origin –tags</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Command line instructions&lt;/p&gt;
-&lt;p&gt;Git global setup&lt;br&gt;git config –global user.name “YogurtBiu”&lt;br&gt;git config –global user.email “&lt;a href=&quot;
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
