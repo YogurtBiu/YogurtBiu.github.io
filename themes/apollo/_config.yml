@@ -1,0 +1,27 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    # Weibo: http://weibo.com/sunchongsheng
+    GitHub: https://github.com/YogurtBiu
+    Rss: /atom.xml
+    About: /about/
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+leancloud:
+    appid: D0Mz8ablYj3mY6dSvGltu95G-9Nh9j0Va # 填写您的appid
+    appkey: YowwydRxvclskHgJI810gMAO # 填写您的appkey
+    comment: true # 是否开启评论系统
+    timer: true # 是否开启文章统计
+
+# Analytics
+# google-analytics:
+ga: UA-141056818-1
+
+# Copyright Infomation
+startyear: 2019
